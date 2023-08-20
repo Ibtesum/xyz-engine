@@ -4,7 +4,7 @@
 
 ### Live Demo
 
-Here you can see [:link:demo](https://64e19d7ed46b3e2d31ea94f8--stellar-truffle-0048de.netlify.app/)
+Here you can see [:link:demo](https://xyz-engine-bli.netlify.app/)
 
 ### Limitations
 - I focused mainly on the functionalities specified in the Assignment file.
